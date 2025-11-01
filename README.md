@@ -82,7 +82,6 @@ The project uses the **Expo Router** file-system-based routing structure.
 │ ├── store/
 │ ├── auth.store.ts # Zustand store for user session
 │ └── cart.store.ts # Zustand store for shopping cart
-│ ├── .env # Environment variables (Appwrite credentials)
 ├── package.json
 └── tailwind.config.js
 ```
